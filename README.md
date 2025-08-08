@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer, UI/UX designer<br>Experience in Javascript, React, Tailwind, PHP, Java <br> I have a strong interest in  web development, artificial intelligence, ui/ux design, mobile development
+I'm a website developer, UI/UX designer<br>Experience in Javascript, React, Tailwind, PHP, Java <br> I have a strong interest in  web development, artificial intelligence, ui/ux design, mobile development
 
 ## 🌐 Socials:
 - **Email**: [ricardgultom3@gmail.com](mailto:ricardgultom3@gmail.com)
